@@ -6,7 +6,7 @@ class Greeter {
 public:
     // Merhaba yazan bir üye fonksiyon
     void sayHello() {
-        cout << "Merhaba!" << endl;
+        cout << "Merhaba beyza!" << endl;
     }
 };
 
